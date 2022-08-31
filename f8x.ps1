@@ -58,7 +58,7 @@ choco outdated
 
 # base_install
 # https://community.chocolatey.org/packages
-choco install -y notepadplusplus.install
+choco install -y sublimetext4
 choco install -y 7zip.install
 choco install -y jdk8
 choco install -y python3
